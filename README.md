@@ -1,2 +1,3 @@
-# dynamic-programming
-rrr
+# dynamic-programmig 
+basic dynamic programing solution
+
